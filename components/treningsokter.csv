@@ -1,0 +1,52 @@
+﻿kategori;underkategori;navn;beskrivelse;oppvarming;nedjogging;intensitet;varighet;kilde
+Løping;Intervall;6×3 Intervall;6 drag à 3 min med 90 sek pause;10 min jogg + 3 stigningsløp;5 min jogg;Sone 4 – 85–90 %;45;standard
+Løping;Intervall;4×4 Intervall;4 drag à 4 min med 3 min pause;10 min jogg;5 min jogg;Sone 4;40;standard
+Løping;Intervall;5×5 Intervall;5 drag à 5 min med 2 min pause;12 min jogg;5 min jogg;Sone 4;50;standard
+Løping;Intervall;10×1 Intervall;10 drag à 1 min med 1 min pause;8 min jogg;5 min jogg;Sone 5;35;standard
+Løping;Intervall;Pyramide 1–2–3–2–1;Varierende drag med 1 min pause;10 min jogg;5 min jogg;Sone 4–5;40;standard
+Løping;Langløp;60 min rolig;Rolig langtur i jevnt tempo;5 min lett jogg;5 min nedtrapping;Sone 2–3;60;standard
+Løping;Langløp;90 min rolig;Langtur med fokus på utholdenhet;10 min jogg;10 min nedtrapping;Sone 2;90;standard
+Løping;Langløp;45 min progressiv;Økende tempo hvert 15. min;10 min jogg;5 min jogg;Sone 2–4;50;standard
+Løping;Terrengløp;30 min sti;Lett jogg i variert terreng;5 min jogg;5 min jogg;Sone 2–3;40;standard
+Løping;Terrengløp;60 min kupert;Langtur med bakker og stier;10 min jogg;10 min jogg;Sone 3;70;standard
+Løping;Bakkeløp;6×bakkeintervall;6 drag i motbakke à 60 sek;10 min jogg + 3 stigningsløp;5 min jogg;Sone 4–5;35;standard
+Løping;Bakkeløp;10×bakkeintervall;10 drag à 45 sek;10 min jogg;5 min jogg;Sone 5;40;standard
+Løping;Fartslek;30 min fartslek;Variert tempo etter lyst;10 min jogg;5 min jogg;Sone 2–4;45;standard
+Løping;Fartslek;40 min fartslek;Rolig + raske innslag;10 min jogg;5 min jogg;Sone 2–4;55;standard
+Løping;Gå/jogg;30 min gå/jogg;Veksle mellom 3 min jogg og 2 min gange;5 min gange;5 min jogg;Sone 2;40;standard
+Løping;Gå/jogg;45 min gå/jogg;Lett økt med veksling;5 min jogg;5 min jogg;Sone 2;55;standard
+Løping;Test;3000 m test;Maks innsats over 3 km;10 min jogg + 3 stigningsløp;10 min jogg;Sone 5;30;standard
+Løping;Test;Cooper-test;Maks distanse på 12 min;10 min jogg;5 min jogg;Sone 5;30;standard
+Løping;Restitusjon;20 min rolig;Lett jogg for restitusjon;5 min gange;5 min jogg;Sone 1–2;30;standard
+Løping;Restitusjon;30 min rolig;Lett jogg med fokus på teknikk;5 min jogg;5 min jogg;Sone 1–2;40;standard
+;;;;;;;;
+Styrke;Fullkropp;Fullkropp 1;5 øvelser, 3 sett;Dynamisk mobilitet;Stretching;Moderat;45;standard
+Styrke;Fullkropp;Fullkropp 2;6 øvelser, 2 sett;Lett jogg + mobilitet;Stretching;Moderat;40;standard
+Styrke;Bein;Beinøkt 1;Knebøy, utfall, hip thrust;Mobilitet hofter;Stretching;Tung;50;standard
+Styrke;Bein;Beinøkt 2;Knebøy + step-ups + markløft;Lett jogg;Stretching;Moderat;45;standard
+Styrke;Overkropp;Overkropp 1;Pullups, benkpress, roing;Skuldermobilitet;Stretching;Moderat;40;standard
+Styrke;Overkropp;Overkropp 2;Pushups, dips, roing;Lett jogg;Stretching;Lett;35;standard
+Styrke;Kjerne;Kjerne 1;Planke, hollow hold, sideplanke;Lett jogg;Stretching;Lett;30;standard
+Styrke;Kjerne;Kjerne 2;Magehjul, russian twist, bird dog;Mobilitet;Stretching;Moderat;35;standard
+Styrke;Sirkel;Sirkeltrening 1;6 øvelser, 30 sek arbeid;Lett jogg;Stretching;Moderat;40;standard
+Styrke;Sirkel;Sirkeltrening 2;8 øvelser, 45 sek arbeid;Mobilitet;Stretching;Tung;50;standard
+Styrke;Egenvekt;Egenvekt 1;Pushups, air squats, planke;Lett jogg;Stretching;Lett;30;standard
+Styrke;Egenvekt;Egenvekt 2;Burpees, lunges, situps;Mobilitet;Stretching;Moderat;35;standard
+Styrke;Mobilitet;Mobilitet 1;Hofte, rygg og skuldermobilitet;Lett jogg;Pust;Lett;25;standard
+Styrke;Mobilitet;Mobilitet 2;Dynamisk stretching;Lett jogg;Pust;Lett;20;standard
+Styrke;Kombinert;Styrke + løp;3 styrkeøvelser + 10 min løp;Lett jogg;Stretching;Moderat;40;standard
+Styrke;Kombinert;Løp + styrke;15 min løp + 4 øvelser;Lett jogg;Stretching;Moderat;45;standard
+Styrke;Test;Maks reps test;Pushups, situps, planke;Lett jogg;Stretching;Tung;30;standard
+Styrke;Test;1RM test;Knebøy, benkpress, markløft;Lett jogg;Stretching;Maks;60;standard
+Styrke;Kjapp;15 min styrke;3 øvelser, 2 sett;Lett jogg;Stretching;Lett;20;standard
+Styrke;Kjapp;20 min styrke;4 øvelser, 2 sett;Lett jogg;Stretching;Moderat;25;standard
+Hvile;Gå tur;30 min tur;Rolig spasertur i nærområdet, fokus på pust og avspenning;5 min lett gange;5 min lett gange;Sone 1 – lav puls;30;standard
+Hvile;Gå tur;45 min tur;Langsom tur i naturen, gjerne med partner eller podcast;5 min lett gange;5 min lett gange;Sone 1;45;standard
+Hvile;Yoga;Yoga – myk flyt;Rolig yoga med fokus på bevegelighet og pust;Lett tøying;Savasana 5 min;Sone 1 – restitusjon;30;standard
+Hvile;Yoga;Yoga – stressreduksjon;Enkle stillinger med fokus på pust og ro;Pust og lett mobilitet;Savasana;Sone 1;25;standard
+Hvile;Stretching;Hele kroppen;Dynamisk og statisk stretching av store muskelgrupper;Lett jogg eller mobilitet;Pust og ro;Sone 1;20;standard
+Hvile;Stretching;Hofte og rygg;Tøying av hofteleddsbøyere, hamstrings og korsrygg;Lett mobilitet;Pust og ro;Sone 1;20;standard
+Hvile;Mental pause;Meditasjon;Guidet eller stille meditasjon for mental restitusjon;Pust og sittestilling;Avslutning med rolig pust;Sone 1;15;standard
+Hvile;Mental pause;Pustetrening;Rolige pusteteknikker som box breathing eller 4-7-8;Sittende pust;Avslutning med rolig pust;Sone 1;15;standard
+Hvile;Mental pause;Lesing;Les en bok eller artikkel som gir ro og inspirasjon;Lett mobilitet;Avslutning med pust;Sone 1;30;standard
+Hvile;Avspenning;Progressiv muskelavslapning;Systematisk spenning og avslapning av muskelgrupper;Lett tøying;Liggende pust;Sone 1;20;standard
