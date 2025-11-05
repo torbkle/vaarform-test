@@ -1,5 +1,5 @@
 import streamlit as st
-from supabase.client import create_client, Client
+from supabase import create_client
 from datetime import datetime
 
 # === Supabase-klient ===
