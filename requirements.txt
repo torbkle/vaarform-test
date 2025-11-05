@@ -1,6 +1,7 @@
 streamlit>=1.28.0
-supabase==2.0.1
+supabase==2.22.3
+supabase-auth==2.22.3
+supabase-functions==2.22.3
 pandas>=2.0.0
 requests>=2.31.0
 python-dotenv>=1.0.0
-
